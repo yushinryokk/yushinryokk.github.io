@@ -1,2 +1,797 @@
-# yushinyokka
-Offical website of Yushinryokka
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>友進緑化　有限会社❘横浜を中心に造園・緑地管理を承っています</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="有進緑化　有限会社❘横浜を中心に造園・緑地管理を承っています">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+ 
+  
+<div id="container">
+
+
+
+<!--▼▼▼▼▼ここから「ヘッダー」-->
+<header>
+
+<h1 id="logo"><a href="index.html"><img src="images/logo.png" alt="有限会社　有進緑化"></a></h1>
+
+<nav>
+<ul>
+<li><a href="#news">お知らせ</a></li>
+<li><a href="#csr">CSR</a>
+	<ul>
+	<li><a href="#effort">CSRの取り組み</a></li>
+	<li><a href="#local">地域志向CSR方針</a></li>
+	<li><a href="#ethical">倫理行動規範</a></li>
+	</ul>
+</li>
+<li><a href="#company">会社概要</a></li>
+<li><a href="#faq">よくある質問</a></li>
+<li><a href="#rec">求人</a></li>
+<!--<li><a href="#flow">制作の流れ</a></li>-->
+<li><a href="contact.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</header>
+<!--▲▲▲▲▲ここまで「ヘッダー」-->
+
+
+
+<!--▼▼▼▼▼ここから「メイン画像」-->
+<div id="mainimg">
+<div>
+
+<div class="text">
+<p>変わらない日常の裏に、<br>
+私たちの静かな誇りがあります</p>
+</div>
+
+<div class="btn">
+<p><a href="contact.html"><i class="fa-regular fa-envelope"></i>お問い合わせ</a></p>
+<!-- <p><a href="#"><i class="fa-regular fa-file-lines"></i>資料請求</a></p> -->
+</div>
+
+</div>
+</div>
+<!--▲▲▲▲▲ここまで「メイン画像」-->
+
+
+
+<main>
+
+
+
+<!--▼▼▼▼▼ここから「経営理念・ミッション・ビジョン」-->
+<section class="bg3 bg-pattern3" id="csr">
+
+<h2 class="c">私たちが大切にしていること<span>What We Value</span></h2>
+
+<div class="list-normal1">
+
+<div class="list up">
+<figure><img src="images/philo.png" alt=""></figure>
+<div class="text">
+<h4>経営理念（Philosophy）</h4>
+<p><strong>人と自然と地域にやさしい会社であり続ける</strong><br>
+地域の緑を守り育てることを通じて、人と自然が調和し、共に豊かに生きる社会づくりに貢献します。</p>
+<p class="name">友進緑化　有限会社 代表取締役 伊東　陸</p>
+</div>
+</div>
+
+<div class="list up reverse">
+<figure><img src="images/mission1.png" alt=""></figure>
+<div class="text">
+<h4>ミッション（Mission）</h4>
+<p><strong>社員一人ひとりが誇りを持って成長できる環境づくり</strong><br>
+	技術と想いを大切にし、社員が安心して働き、地域のために胸を張って仕事ができる会社を目指します。</p>
+<p class="name"></p>
+</div>
+</div>
+
+<div class="list up">
+<figure><img src="images/vision.png" alt=""></figure>
+<div class="text">
+<h4>ビジョン（Vision）</h4>
+<p><strong>地域に愛され、自然とともに歩む信頼のパートナー企業へ</strong><br>街の緑を守る担い手として、住民・自治体・社員から信頼される「地域の造園会社」として、永く必要とされる存在を目指します。</p>
+<p class="name"></p>
+</div>
+</div>
+
+</div>
+<!--/.list-normal1-->
+
+<!--<div class="r"><p class="btn1"><a href="#" class="inline-block">もっと見る</a></p></div>-->
+
+</section>
+<!--▲▲▲▲▲ここまで「経営理念・ミッション・ビジョン」-->
+
+
+
+
+
+
+<!--▼▼▼▼▼ここから「地域志向CSR方針」-->
+<section class="bg-primary-color" id="local">
+
+<div class="c">
+<h2 class="inline-block relative">地域志向CSR方針
+<!--<div><img src="images/logo1.png" alt="CSR"></div>-->
+</h2>
+
+</div>
+
+<div class="list-grid1">
+
+<div class="list up"><p><br>私たちは、地域に根ざした造園企業として、持続可能な社会の実現に貢献するため、地域志向のCSR（Corporate Social Responsibility; 企業の社会的責任）に積極的に取り組んでいます。
+		5つの視点から、地域との共生と信頼を大切にした経営を行っています。<br></p></div>
+
+<div class="list up">
+<figure class="icon"><img src="images/logo01.png"></figure>
+<h4><span class="marker">コンプライアンス</span></h4>
+<p>法令やルールを守り、誠実で透明な業務運営を徹底しています。</p>
+<span class="num">01</span>
+</div>
+
+<div class="list up">
+<figure class="icon"><img src="images/CSR02.jpg" alt=""></figure>
+<h4><span class="marker">地域社会</span></h4>
+<p>地域の緑化や美化を通じて、住みよい環境づくりに貢献しています。</p>
+<span class="num">02</span>
+</div>
+
+<div class="list up">
+<figure class="icon"><img src="images/logo03.jpg" alt=""></figure>
+<h4><span class="marker">従業員</span></h4>
+<p>安全で働きやすい職場づくりと、技術向上の支援に努めています。</p>
+<span class="num">03</span>
+</div>
+
+<div class="list up">
+<figure class="icon"><img src="images/logo04.png" alt=""></figure>
+<h4><span class="marker">取引先</span></h4>
+<p>地元業者との信頼関係を大切にし、公平・公正で誠実な取引を行っています。</p>
+<span class="num">04</span>
+</div>
+
+<div class="list up">
+<figure class="icon"><img src="images/logo05.png" alt=""></figure>
+<h4><span class="marker">お客様</span></h4>
+<p>丁寧な対応と高品質なサービスを提供し、長く信頼されるパートナーを目指します。</p>
+<span class="num">05</span>
+</div>
+
+
+</div>
+<!--/.list-grid1-->
+
+</section>
+<!--▲▲▲▲▲ここまで「地域志向CSR方針」-->
+
+
+
+
+<!--▼▼▼▼▼ここから「CSRへの取組について」-->
+<section class="bg3 bg-pattern3" id="effort">
+
+<h2 class="c">CSRへの取り組みについて</h2>
+<p>私たちは「人と自然と地域にやさしい会社であり続ける」という経営理念のもと、地域社会に根ざしたCSR活動に取り組んでいます。
+小さな会社だからこそできる、地道で誠実な活動を通じて、地域と自然の未来に貢献していきます。</p>
+<div class="list-normal1">
+
+<div class="list up">
+<div class="text">
+<h4>具体的な活動内容</h4>
+<p><ul>
+	<li>法令・社会規範の遵守</li>
+	<li>地域環境への貢献　（街路樹選定等の緑化事業、公園遊具の保守点検、造園専門業者としての取引先への有益なサービスの提供）</li>
+	<li>安心・安全な施工</li>
+	<li>品質・環境に配慮した業務運営</li>
+	<li>誠実な顧客対応（CS）Customer Satisfaction</li>
+	<li>従業員のスキルアップ支援・仕事と私生活両立への配慮（Employee Satisfaction）</li>
+</ul>
+<div><br><p><strong>これらを実現するためのシステムを構築しつつ、その成果を改善し続けること</strong><br>
+地域の緑を守り育てることを通じて、人と自然が調和し、共に豊かに生きる社会づくりに貢献します。</p></div>
+
+</div>
+</div>
+
+</div>
+<!--/.list-normal1-->
+
+<!--<div class="r"><p class="btn1"><a href="#" class="inline-block">もっと見る</a></p></div>-->
+
+</section>
+<!--▲▲▲▲▲ここまで「CSR」-->
+
+
+
+<!--▼▼▼▼▼ここから「倫理行動規範」-->
+<section class="bg1 bg-pattern1 arrow" id="ethical">
+
+<h2 class="c">倫理行動規範</h2>
+	<p>私たちは、地域に根ざしたCSR方針を正しく理解し、仕事を通じて以下の倫理観や姿勢を大切にしています。
+すべての従業員がこれらの価値観を身につけ、行動に反映させることを求めています。<br><br></p>
+		<div class="list-grid1">
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/logo11.png" alt=""></figure>
+<h4 class="kazari"><span class="color-check">法令遵守：</span><br>
+	あらゆる企業活動の場において、法令を遵守し、社会倫理に適合した良識ある活動を行う。</h4>
+<span class="num">01</span>
+</div>
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/logo12.png" alt=""></figure>
+<h4 class="kazari"><span class="color-check">人権の尊重：</span><br>
+	従業員の多様性、人格、個性を尊重するとともに、あらゆる差別がない職場環境を確保する。</h4>
+<span class="num">02</span>
+</div>
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/philo02.jpg" alt=""></figure>
+<h4 class="kazari"><span class="color-check">環境への対応：</span><br>
+	環境と経済が調和した持続可能な社会の構築に寄与するとともに、生物多様性保全にも配慮する。</h4>
+<span class="num">03</span>
+</div>
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/logo14.png" alt=""></figure>
+<h4 class="kazari"><span class="color-check">従業員の就業環境整備：</span><br>
+	従業員の多様性・人格・個性を尊重し、公平な処遇を実現するとともに、それぞれの能力・活力を発揮できるような安全で働きやすい職場環境をつくる。</h4>
+<span class="num">04</span>
+</div>
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/logo15.png" alt=""></figure>
+<h4 class="kazari"><span class="color-check">取引先との相互発展：</span><br>
+	公正なルールに則った取引関係を築き、円滑な意思疎通により取引先との信頼関係を確立し相互の発展を図る。</h4>
+<span class="num">05</span>
+</div>
+
+<div class="list bg-black up">
+<figure class="icon"><img src="images/logo16.png" alt=""></figure>
+<h4 class="kazari"><span class="color-check">反社会的勢力への対処：</span><br>
+	社会秩序や安全に脅威を与える反社会的勢力・団体に対しては、毅然とした態度で対処し、一切の関係を遮断する。</h4>
+<span class="num">06</span>
+</div>
+
+</div>
+<!--/.list-grid1-->
+
+</section>
+<!--▲▲▲▲▲ここまで「倫理行動規範」-->
+
+
+
+<!--▼▼▼▼▼ここから「法令宣誓書」-->
+<section class="bg2 bg-pattern2" id="laws">
+
+<h2 class="c">法令宣誓書</h2>
+
+<div class="list-normal1 flow">
+
+<div class="list up">
+<div class="text">
+<h4>私達 友進緑化 有限会社は、以下のコンプライアンスを宣言し、社会における責任を果たします。</h4>
+<p><ul>
+	<li>　法令の遵守</li>
+	<li>　社会的規範の遵守</li>
+	<li>　個人情報保護方針</li>
+	<li>　地域志向CSR方針</li>
+</ul>
+<p><br>これらを実現する為のシステムを構築し、改善し続けて参ります！</p>
+<p class="name">令和7年5月　友進緑化　有限会社 代表取締役 伊東　陸</p>
+</div>
+</div>
+</div>
+
+
+<h2 class="c">関連法令</h2>
+
+<div class="list-normal1 flow">
+
+<div class="list up">
+<div class="text">
+<ul>
+<li><a target="_blank" href="https://www.city.yokohama.lg.jp/business/nyusatsu/youshiki/kankyo/koenshiryo/download/2ijiitaku-shiyousyo.files/0107_20240328.pdf">公園緑地等維持業務共通仕様書(令和6年4月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://www.city.yokohama.lg.jp/business/nyusatsu/youshiki/douro/20201012161548102.files/0019_20200114.pdf">街路樹維持業務委託共通仕様書(令和2年1月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>			
+					<li><a target="_blank" href="https://www.city.yokohama.lg.jp/business/nyusatsu/youshiki/shigen/shiyousyo/shiyousho.files/311-itakukyotsusiyousyo202301.pdf">資源循環局共通仕様書(令和5年12月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=322AC0000000049">労働基準法(令和7年4月施工)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=415AC0000000057">個人情報の保護に関する法律(令和7年4月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=343AC0000000098">騒音規制法(令和4年6月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=351AC0000000064">振動規制法(令和4年6月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+					<li><a target="_blank" href="https://elaws.e-gov.go.jp/document?lawid=323AC0000000082">農薬取締法(令和6年4月)&nbsp;<i class="fas fa-external-link-alt"></i></a></li>
+</ul>
+<p><br>※各関連法令の更新は毎年4月にCSR担当が確認しここに反映させるものとする</p>
+<p class="name">令和7年5月　確認</p>
+
+</div>
+</div>
+<!--/.list-normal1-->
+
+<!--▲▲▲▲▲ここまで「法令宣誓書」-->
+
+
+
+
+
+<!--▼▼▼▼▼ここから「私たちステークホールダー」-->
+<section class="bg1 bg-pattern1" id="plan">
+
+<h2 class="c">私たちのステークホルダー</h2>
+
+<div class="scroll">
+
+<table class="ta1 plan blur">
+<tr>
+<th>&nbsp;</th>
+<th><span>ステークホルダーのニーズ</span></th>
+<th><span>ステークホルダーへのCSR</span></th>
+</tr>
+<tr>
+<td>お客様</td>
+<td>高品質なサービスの提供</td>
+<td>お客様にご満足いただける高品質なサービスを提供すること。 台風や災害等の緊急時にも対応し、頼れる地元企業としてお客様の生活を支えること。</td>
+</tr>
+<tr>
+<td>地域社会</td>
+<td>地域活動への協力地域の環境の改善</td>
+<td>地域ボランティアへの協力や支援により、よりよい社会の実現に寄与すること。 リサイクルを推進し、環境保全・改善に努めること。</td>
+</tr>
+<tr>
+<td>取引先</td>
+<td>公正な取引、協力関係の構築</td>
+<td>公正な取引を通して信頼関係を構築し、共存共栄で地域に貢献すること。</td>
+</tr>
+<tr>
+<td>従業員</td>
+<td>就業環境の安定、やりがいのある仕事</td>
+<td>技術、知識を向上させる研修を積極的に行い、能力向上に努め、従業員の自己実現と安定した生活を支援すること。 安全な就業環境を提供すること。</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+</section>
+<!--▲▲▲▲▲ここまで「私たちステークホールダー」-->
+
+
+
+<!--▼▼▼▼▼ここから「よく頂く質問」-->
+<section class="bg-primary-color" id="faq">
+
+<div class="c2">
+
+<div class="title">
+<h2>よく頂く質問<span>FAQ</span></h2>
+</div>
+<!--/.title-->
+
+<div class="text">
+
+<dl class="faq">
+
+<dt class="openclose">見積もりは無料ですか？</dt>
+<dd>はい、無料でお見積もりいたします。お気軽にご相談ください。現地調査が必要な場合も、出張費などはいただいておりません。</dd>
+
+<dt class="openclose">作業当日は立ち会いが必要ですか？</dt>
+<dd>基本的には立ち会いをお願いしておりますが、ご都合がつかない場合は事前に打ち合わせを行い、鍵の預かりなど柔軟に対応いたします。</dd>
+
+<dt class="openclose">作業後のゴミや枝葉の処分はどうなりますか？</dt>
+<dd>弊社で責任を持って回収・処分いたします。処分費用はお見積もりに含めてご案内いたしますので、ご安心ください。</dd>
+
+<dt class="openclose">急ぎの依頼にも対応してもらえますか？</dt>
+<dd>スケジュールの空き状況によりますが、可能な限り対応いたします。まずは一度お電話またはメールでお問い合わせください。</dd>
+
+<dt class="openclose">雨天の場合、作業はどうなりますか？</dt>
+<dd>軽い雨であれば決行しますが、安全や作業品質に影響がある場合は日程を変更させていただくことがございます。前日または当日の朝にご連絡いたします。</dd>
+
+<dt class="openclose">植木1本だけの剪定でも頼めますか？</dt>
+<dd>はい、大歓迎です。コンパクトなお庭のお世話や1本だけの剪定も丁寧に対応いたします。</dd>
+
+</dl>
+</div>
+</div>
+</section>
+<!--▲▲▲▲▲ここまで「よく頂く質問」-->
+
+<!--▼▼▼▼▼ここから「求人情報」-->
+<section id="rec">
+
+</section><section class="bg2 bg-pattern2" id="recruit">
+
+<h2 class="c">スタッフ募集のお知らせ <span>Recruitment</span></h2>
+
+<div class="list-normal1 flow">
+
+<div class="list up">
+<div class="text">
+<h4><i class="fa-solid fas fa-hands-helping"></i>私たちと一緒に働いてみませんか？</h4>
+<p>私たちは地域に根ざした小さな造園会社です。公園やマンションの植木、そして街路樹など、外に出ると目に入る緑のお手入れを行っています。</p>
+</div>
+</div>
+
+<div class="list up">
+<div class="text">
+<h4><i class="fa-solid fas fa-tree"></i>お仕事内容</h4>
+<p>マンションの敷地内や、公園、道路に植えてある植木や街路樹などの選定や、植え込みの手入れをお願いします。<br>
+	草刈り機やチェーンソーを使ってのお仕事です。</p>
+</div>
+</div>
+
+<div class="list up">
+<div class="text">
+<h4><i class="fa-solid fas fa-check"></i>学歴不問！未経験歓迎！</h4>
+<p>まずは道具の使い方からお教えしましますので、全くの未経験からでＯＫです。<br>
+	志望動機も「身体を動かしたい」や「全く新しい事をやってみたい」くらいで大丈夫！<br>
+	春夏秋冬を感じながらお仕事しませんか？
+	
+</p>
+</div>
+</div>
+
+<div class="list up">
+<div class="text">
+<h4><i class="fa-solid fa-globe"></i>募集要項</h4>
+<p><table class="ta1"><tr>
+<th>応募資格</th>
+<td>学歴・年齢不問！　無資格・未経験者OK！<br>
+資格をお持ちの経験者はさまざまにご活躍いただける職場です<br>
+普通自動車免許尚可(ＡＴ限定不可)<br>
+造園技能士・造園施工管理技士の資格 あれば尚可<br>
+資格・経験がなくても働きながら技能を身に着けることができます<br>
+◆まずは1ヶ月の短期勤務もＯＫ</td>
+</tr>
+<tr>
+<th>募集職種</th>
+<td>造園工・現場管理</td>
+</tr>
+<tr>
+<th>待遇・福利厚生</th>
+<td>社会保険完備、随時昇給有、賞与年2回有<br>交通費規定支給、資格取得支援制度有、車通勤可、試用期間3ヶ月<br>
+日払い・週払い応相談</td>
+</tr>
+<tr>
+<th>勤務地</th>
+<td>神奈川県横浜市戸塚区汲沢町238-9(営業所)</td>
+</tr>
+<tr>
+<th>アクセス</th>
+<td>「戸塚駅」よりバス「西横浜国際病院前」下車徒歩6分</td>
+</tr>
+<tr>
+<th>勤務地</th>
+<td>神奈川県横浜市戸塚区汲沢町21-6(営業所)</td>
+</tr>
+<tr>
+<th>休暇・休日</th>
+<td>週休2日制(土・日)、年末年始、ＧＷ、お盆<br>※稼ぎたい方は週休1日(日曜)もＯＫ</td>
+</tr>
+<tr>
+<th>その他</th>
+<td>キャリアプランの実現に協力いたします<br>資格取得支援制度あり</td>
+</tr></table></p>
+</div>
+</div>
+
+</div>
+<!--/.list-normal1-->
+
+</section>
+<!--▲▲▲▲▲ここまで「求人」-->
+
+<!--▼▼▼▼▼ここから「会社概要」-->
+<section id="company">
+
+<div class="bg-slideup mb-space-large">
+<div class="image">
+</div>
+</div>
+
+<div class="c2">
+
+<div class="title">
+<h2>会社概要<span>Company</span></h2>
+</div>
+<!--/.title-->
+
+<div class="text">
+
+<table class="ta1">
+<caption>会社概要</caption>
+<tr>
+<th>会社名</th>
+<td>有限会社　友進緑化</td>
+</tr>
+<tr>
+<th>所在地</th>
+<td>〒221-0801<Br>神奈川県横浜市神奈川区神大寺1-4-10-1</td>
+</tr>
+<tr>
+<th>電話番号</th>
+<td>045-717-7625</td>
+</tr>
+<tr>
+<th>FAX番号</th>
+<td>045-717-7635</td>
+</tr>
+<tr>
+<th>サイトURL</th>
+<td>　</td>
+</tr>
+<tr>
+<th>代表者名</th>
+<td>伊東 陸</td>
+</tr>
+<tr>
+<th>事業内容</th>
+<td>造園業・緑地管理業</td>
+</tr>
+<tr>
+<th>設立年月</th>
+<td>1991年5月</td>
+</tr>
+<tr>
+<th>資本金</th>
+<td>2,000万円</td>
+</tr>
+<tr>
+<th>許認可</th>
+<td>ISO9001　（品質）、ISO14001（環境）</td>
+</tr><tr>
+<th>主な取引先</th>
+<td>横浜市、神奈川県　他</td>
+</tr>
+</table>
+
+</div>
+<!--/.text-->
+
+</div>
+<!--/.c2-->
+
+</section>
+<!--▲▲▲▲▲ここまで「会社概要」-->
+
+
+
+<!--▼▼▼▼▼ここから「問い合わせ」-->
+<section class="padding0">
+
+<h2 class="dn">問い合わせ</h2>
+
+<div class="list-c2">
+
+<div class="list image1">
+<div class="text">
+<h4><span class="sub-text">お問い合わせ</span><span class="main-text">Contact</span></h4>
+<p class="btn1"><a href="contact.html">お問い合わせ</a></p>
+</div>
+</div>
+</section>
+<!--▲▲▲▲▲ここまで「問い合わせ」-->
+
+
+
+<!--▼▼▼▼▼ここから「お知らせ」-->
+<section  id="news">
+<div class="c2" >
+
+<div class="title">
+<h2>お知らせ<span>News</span></h2>
+</div>
+<!--/.title-->
+
+<div class="text">
+
+<dl class="new">
+<dt>2025年10月<span class="icon-bg1">重要</span></dt>
+<dd>移転いたしました<br>
+このたび、弊社は業務拡充に伴い、下記のとおり同市内に移転いたしましたことをお知らせ申し上げます。<br>
+すでに新事務所にて業務を開始しております。<br>
+今後とも変わらぬご支援・ご愛顧を賜りますよう、心よりお願い申し上げます。<br>
+■ 新住所：<br>
+〒221-0801　神奈川県横浜市神奈川区神大寺1-4-10-1</dd>
+<dt>2025年10月<span class="icon-bg2">会社情報</span></dt>
+<dd>ISO認証 更新<br>
+当社はISO9001（品質管理）およびISO 14001（環境管理）の認証更新を無事に完了いたしましたことをお知らせ申し上げます。<br>
+引き続きお客様に対して高品質な造園サービスを提供するとともに、環境に配慮した業務運営を推進してまいります。</dd>
+<dt>2025年10月<span class="icon-bg1">重要</span></dt>
+<dd>HP開設<br>
+このたび、友進緑化株式会社は公式ホームページを開設いたしました。<br>
+業務内容や施工事例、お知らせなどを随時更新してまいります。
+ぜひご覧いただき、お庭づくりのご参考になれば幸いです。<br>
+
+今後とも友進緑化株式会社をどうぞよろしくお願いいたします。</dd>
+</dl>
+
+</div>
+<!--/.text-->
+
+</div>
+<!--/.c2-->
+
+</section>
+<!--▲▲▲▲▲ここまで「お知らせ」-->
+
+
+
+<!--▼▼▼▼▼ここから「サムネイルスライドショー」-->
+<!--
+<section class="padding-lr0">
+
+<div class="slide-thumbnail1">
+<div class="img rtl">
+<div><a href="#"><img src="images/thumb1.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb2.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb3.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb4.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb5.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb6.jpg" alt=""></a></div>
+</div>
+</div>
+
+<div class="slide-thumbnail1">
+<div class="img ltr">
+<div><a href="#"><img src="images/thumb1.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb2.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb3.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb4.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb5.jpg" alt=""></a></div>
+<div><a href="#"><img src="images/thumb6.jpg" alt=""></a></div>
+</div>
+</div>
+
+</section>
+-->
+<!--▲▲▲▲▲ここまで「サムネイルスライドショー」-->
+
+
+
+<!--▼▼▼▼▼ここから「テンプレート説明」
+<section>
+
+<h2 class="color-check">※テンプレートのご利用前に必ずお読み下さい</h2>
+
+<h3>利用規約のご案内</h3>
+<p>このテンプレートは、<a href="https://template-party.com/">Template Party</a>にて無料配布している『WEB制作・システム開発サイト向け（ランディングページタイプ） 無料ホームページテンプレート tp_biz63』です。必ずダウンロード先のサイトの<a href="https://template-party.com/read.html">利用規約</a>をご一読の上でご利用下さい。</p>
+<h3>HP最下部の著作表示『Web Design:Template-Party』は無断で削除しないで下さい。</h3>
+<p>わざと見えなく加工する事も禁止です。</p>
+<h3>下部の著作を外したい場合は</h3>
+<p><a href="https://template-party.com/">Template-Party</a>の<a href="https://template-party.com/member.html">ライセンス契約</a>を行う事でHP下部の著作を外す事ができます。</p>
+
+<h3>テンプレートの詳しい使い方は</h3>
+<p>_manualフォルダに入っていますのでお読み下さい。<br>
+サーバーにアップする必要はないので、読んだらフォルダごと削除してもらってOKです。</p>
+
+<h3>無料CMSのご案内</h3>
+<p>お知らせ・一覧を出力できる無料CMSを公開中。</p>
+<p><a href="https://template-party.com/program/simple_cms.html" target="_blank"><img src="https://template-party.com/images/banner/program_simple_cms.png" alt="シンプルCMS"></a></p>
+
+</section>
+▲▲▲▲▲ここまで「テンプレート説明」-->
+
+
+
+</main>
+
+
+
+<!--▼▼▼▼▼ここから「フッター」-->
+<footer>
+
+<div>
+<p class="logo"><img src="images/logo.png" alt="有進緑化 有限会社"></p>
+<ul class="icons">
+<li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+<li><a href="#"><i class="fab fa-line"></i></a></li>
+<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+</ul>
+<p>神奈川県横浜市港北区篠原町973番地21<br>
+045-747-7625</p>
+<small>Copyright&copy; 有限会社 有進緑化 All Rights Reserved.</small>
+</div>
+
+<div>
+
+<ul>
+<li><a href="#news">お知らせ</a></li>
+<li><a href="#CSR">CSR</a></li>
+<li><a href="#company">会社概要</a></li>
+<li><a href="#faq">よく頂く質問</a></li>
+<li><a href="#rec">求人情報</a></li>
+<li><a href="contact.html">お問い合わせ</a></li>
+</ul>
+
+<!--
+<ul>
+<li><a href="#">その他のメニューがあれば</a></li>
+<li><a href="#">その他のメニューがあれば</a></li>
+<li><a href="#">その他のメニューがあれば</a></li>
+</ul>
+-->
+
+</div>
+
+</footer>
+<!--▲▲▲▲▲ここまで「フッター」-->
+
+
+
+<!--以下の行はテンプレートの著作。削除しないで下さい。-->
+<span class="pr"><a href="https://template-party.com/" target="_blank">《Web Design:Template-Party》</a></span>
+
+
+
+</div>
+<!--/#container-->
+
+
+
+<!--ローディング-->
+<div id="loading">
+<img src="images/logo.png" alt="Loading">
+<div class="progress-container">
+<div class="progress-bar"></div>
+</div>
+</div>
+
+
+
+<!--開閉ボタン（ハンバーガーアイコン）-->
+<div id="menubar_hdr">
+<span></span><span></span><span></span>
+</div>
+
+
+
+<!--開閉ブロック-->
+<div id="menubar">
+
+<p class="logo"><img src="images/logo.png" alt="有限会社　有進緑化"></p>
+
+<nav>
+<ul>
+<li><a href="index.html">ホーム</a></li>
+<li><a href="#CSR">CSR</a></li>
+	<ul>
+	<li><a href="#effort">CSRの取り組み</a></li>
+	<li><a href="#local">地域志向CSR</a></li>
+	<li><a href="#ethics">倫理行動規範</a></li>
+	<li><a href="#laws">法令宣誓書</a></li>
+	</ul>
+<li><a href="#company">会社概要</a></li>
+<li><a href="#faq">よく頂く質問</a></li>
+<li><a href="#recruit">求人</a></li>
+<li><a href="contact.html">お問い合わせ</a></li>
+</ul>
+</nav>
+
+</div>
+<!--/#menubar-->
+
+
+
+<!--jQueryの読み込み-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!--パララックス（inview）-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/protonet-jquery.inview/1.1.2/jquery.inview.min.js"></script>
+<script src="js/jquery.inview_set.js"></script>
+
+<!--このテンプレート専用のスクリプト-->
+<script src="js/main.js"></script>
+
+</body>
+</html>
